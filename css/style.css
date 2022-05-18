@@ -1,0 +1,86 @@
+body {
+    font: 20px arial, sans-serif;
+    background-color: #031638;
+}
+
+
+.itens{
+    border-color: black;
+}
+
+.itens :hover{
+    color: white;
+}
+
+.navbar {
+    background-color: #031638;
+}
+
+.list {
+    color: #424242;
+}
+.quem-somos {
+    background-color: #586987;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bdcolor {
+    border: 1px solid black;
+    
+}
+
+.image-center {
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: #fcfdff;
+}
+
+#servicos {
+    background-color: #586987;
+}
+  
+.servicos{
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    font: 14px footlight MT;
+}
+
+.text-last {
+    padding-bottom: 23px;
+}
+
+.round-point{
+    border-radius: 20%;
+    box-shadow: black;
+    border-style: solid;
+}
+
+
+#fixo {
+    position: fixed;
+    right: 50px;
+    top: 200px;
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+a:hover {
+    background-color: dodgerblue;
+}
+
+.alinha{
+    padding-left: 600px;
+}
